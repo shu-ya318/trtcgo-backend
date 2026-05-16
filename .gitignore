@@ -1,5 +1,6 @@
-# === IDE & Editors === 
+# === IDE & Editors ===
 .settings/
+.metadata/
 
 # VS Code 
 .vscode/*
